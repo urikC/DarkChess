@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\pre-dexed\debug\classes-919669370853e261d15a0d1740b108e9b0f97142.jar" />
+    </item>
+    <item
+        jar="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\pre-dexed\debug\classes-bc7a30d103b373cc1c4bbbf3072e5d5992bb40b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5093779c898066f181be90e1e30d4dbe6ebc41ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Winter\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Winter\AndroidStudioProjects\DarkChess\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-751c3bdb6b4b37136cf758f51118b4e07a4ea348.jar" />
+    </item>
+
+</items>
