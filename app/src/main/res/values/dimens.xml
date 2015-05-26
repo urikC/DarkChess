@@ -2,8 +2,16 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">0px</dimen>
     <dimen name="activity_vertical_margin">0px</dimen>
-    <dimen name="grid_start">30px</dimen>
-    <dimen name="grid_size">80px</dimen>
-    <dimen name="board_width">320px</dimen>
-    <dimen name="board_height">640px</dimen>
+    <dimen name="grid_start">40px</dimen>
+    <dimen name="grid_size">120px</dimen>
+    <dimen name="board_width">480px</dimen>
+    <dimen name="board_height">960px</dimen>
+    <dimen name="x_grid_size">45px</dimen>
+    <dimen name="x_area_width">120px</dimen>
+    <dimen name="x_area_height">360px</dimen>
+    <dimen name="x_area_marginLeft">560px</dimen>
+    <dimen name="x_area2_marginTop">640px</dimen>
+    <dimen name="reset_button_height">160px</dimen>
+    <dimen name="reset_button_marginTop">440px</dimen>
+    <dimen name="reset_button_marginLeft">560px</dimen>
 </resources>

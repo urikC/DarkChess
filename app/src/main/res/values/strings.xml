@@ -2,5 +2,6 @@
     <string name="app_name">Dark Chess</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="settings_traditional">New Mode</string>
+    <string name="settings_new">Traditional Mode</string>
 </resources>
